@@ -1,4 +1,4 @@
-package com.moensun.mqttv3.autoconfigure;
+package com.trionesdev.mqttv3.autoconfigure;
 
 import lombok.Data;
 import org.springframework.boot.context.properties.ConfigurationProperties;

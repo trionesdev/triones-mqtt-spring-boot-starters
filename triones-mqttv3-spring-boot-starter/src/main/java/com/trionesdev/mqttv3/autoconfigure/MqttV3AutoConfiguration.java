@@ -1,4 +1,4 @@
-package com.moensun.mqttv3.autoconfigure;
+package com.trionesdev.mqttv3.autoconfigure;
 
 import lombok.extern.slf4j.Slf4j;
 import org.eclipse.paho.client.mqttv3.*;
